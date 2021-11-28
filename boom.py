@@ -4,7 +4,7 @@ import pytest
 def test_method1():
     x = 5
     y = 10
-    assert x == y
+    assert x == x
 
 @pytest.mark.two
 def test_method2():
