@@ -1,5 +1,10 @@
 language: python
 python:
-  -3.6
+  -3.9
+before_install:
+  - python --version
+  - pip install -U pip
+  - pip install -U pytest
+
 script:
-  -pytest boom.py
+  - pytest boom.py

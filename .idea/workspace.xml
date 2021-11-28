@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa7228f3-e8eb-4324-85dd-f7b0b3cabaac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="fa7228f3-e8eb-4324-85dd-f7b0b3cabaac" name="Default Changelist" comment="sfd">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +70,28 @@
       <option name="presentableId" value="Default" />
       <updated>1638033172661</updated>
     </task>
+    <task id="LOCAL-00001" summary="cfg">
+      <created>1638118659466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638118659467</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Firsto">
+      <created>1638118798872</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638118798872</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sfd">
+      <created>1638118939257</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638118939258</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,5 +104,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cfg" />
+    <MESSAGE value="Firsto" />
+    <MESSAGE value="sfd" />
+    <option name="LAST_COMMIT_MESSAGE" value="sfd" />
   </component>
 </project>
